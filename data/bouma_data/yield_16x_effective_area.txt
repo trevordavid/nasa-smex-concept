@@ -1,0 +1,18 @@
+----------
+tess 3 sectors
+Rp 0-1 Rearth: 0
+Rp 1-2 Rearth: 0
+Rp 2-4 Rearth: 2
+Rp 4-22 Rearth: 1
+----------
+smex 6 months
+Rp 0-1 Rearth: 0
+Rp 1-2 Rearth: 30
+Rp 2-4 Rearth: 94
+Rp 4-22 Rearth: 1
+----------
+smex 12 months
+Rp 0-1 Rearth: 0
+Rp 1-2 Rearth: 48
+Rp 2-4 Rearth: 117
+Rp 4-22 Rearth: 1
